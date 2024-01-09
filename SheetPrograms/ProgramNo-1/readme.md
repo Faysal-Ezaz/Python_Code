@@ -1,4 +1,4 @@
-# This file contains the entire explaination for the same code: 
+# Read a text file line by line and display each word separated by a '#': 
 
 `with open('your_file.txt', 'r') as file:`
 <ol>
