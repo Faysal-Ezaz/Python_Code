@@ -1,4 +1,4 @@
-# Programs that will be solved:  
+# Programs:  
 <ol>
   <li>Read a text file line by line and display each word separated by a # </li>
   <li>Read a text file and display the number of vowels/cononants/uppercase/lowercase character in the file.</li>
