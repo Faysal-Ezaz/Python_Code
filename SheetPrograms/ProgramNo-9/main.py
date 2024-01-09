@@ -1,3 +1,5 @@
+# Python code to implement the push operation in a stack using a list:
+
 class Stack:
   def __init__(self):
       self.items = []  # Create an empty list to hold the stack items
@@ -8,7 +10,7 @@ class Stack:
   def push(self, item):
       """Adds an item to the top of the stack."""
       self.items.append(item)  # Place the item at the end of the list
-  # this function can be ignored, this function is to remove the elements from the stack
+  # this function can be ignored, this function is to remove the elements from the stack ie the pop() operation: 
   def pop(self): 
     if self.is_empty():
       return "stack is empty"
