@@ -8,4 +8,5 @@
   <li>Write a Random number generator that generates random number between 1 and 6 (simulates a dice).</li>
   <li>Write a Python program to implement a stack using list. </li>
   <li>Create a CSV file by entering <b>user-id</b> and <b>password</b>, 'read' and 'search' the password for given user id</li>
+  <li>Program to implement push operation in stack using list data structure</li>
 </ol>
