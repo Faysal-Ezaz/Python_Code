@@ -1,6 +1,6 @@
-# Python_Code: 
+# Python_Code: (Read this first) 
 
-Enter the folder `SheetPrograms`, A list of folders shall appear:  
+Enter the folder `SheetPrograms`, A list of python folders shall appear:  
 Each folder Contains 2 files: 
 <ol>
   <li>main.py</li>
